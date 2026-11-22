@@ -1,0 +1,16 @@
+node_modules
+.next
+out
+.env
+.env.local
+.env.*.local
+*.tsbuildinfo
+next-env.d.ts
+.vercel
+.DS_Store
+coverage
+test-results
+
+# Local archives / scratch
+*.tar.gz
+*.zip
